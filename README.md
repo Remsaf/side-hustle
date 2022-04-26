@@ -1,2 +1,2 @@
-m# side-hustle
+ side-hustle
 the first side hustle project
